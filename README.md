@@ -1,4 +1,4 @@
-# word-cloud
+# Customizable word cloud using python.
 
 A word cloud, also known as a tag cloud, is a visual representation of the most frequently used words in a given text or set of texts. The words are typically displayed in different sizes and font weights, with the most frequently used words being displayed in the largest font size. The goal of a word cloud is to quickly identify the most important or relevant words in a text, and it is often used as a way to summarize or analyze large amounts of text data. Word clouds can be created using various online tools or software programs.
 
