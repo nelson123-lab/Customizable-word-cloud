@@ -1,5 +1,7 @@
 # Customizable word cloud using python.
 
+A word cloud, also known as a tag cloud, is a visual representation of the most frequently used words in a given text or set of texts. The words are typically displayed in different sizes and font weights, with the most frequently used words being displayed in the largest font size. The goal of a word cloud is to quickly identify the most important or relevant words in a text, and it is often used as a way to summarize or analyze large amounts of text data. Word clouds can be created using various online tools or software programs.
+
 For creating a word cloud we need two informations.
 1) The image to which we are applying the word cloud.
 2) The content of the word cloud. We need some random words from the internet or do we need any specific word that are related to the context of the image.
@@ -10,10 +12,7 @@ For the Image, we can do 2 things
 
 For the Contents
 1) We can type in words of our desired format and apply them to the word cloud. The problem with this approach is we need huge amount of words within the word cloud inorder for it to look cool. THe more number of same words comes in the more priority will be given to it.
-2) Another approach is to search in wikepedia or any website in internet and scrape out the information.
-
-
-A word cloud, also known as a tag cloud, is a visual representation of the most frequently used words in a given text or set of texts. The words are typically displayed in different sizes and font weights, with the most frequently used words being displayed in the largest font size. The goal of a word cloud is to quickly identify the most important or relevant words in a text, and it is often used as a way to summarize or analyze large amounts of text data. Word clouds can be created using various online tools or software programs.
+2) Another approach is to search in wikepedia or any website in internet and scrape out the information. Inorder to get relevant words for a particular topic we require removal of stopwords and several other processes that includes stemming, lemmatization etc.
 
 Web scrapping is used here for generating word cloud. Web scraping is a technique for extracting information from websites. It can be used to gather the text data from a website, which can then be analyzed and used to create a word cloud.
 
