@@ -28,6 +28,8 @@ There are many libraries available in various programming languages that can be 
 
 It is important to notice that lemmatization process is based on a dictionary and sometimes it might be not able to lemmatize a word if it is not in the dictionary. Additionally, some words might have multiple lemmas based on their context, and the lemmatization process might not be able to determine the correct one.
 
+References:
 
+- [Creating typography using word cloud](https://towardsdatascience.com/creating-typography-using-word-cloud-in-python-9652bd62fa69)
 
 
